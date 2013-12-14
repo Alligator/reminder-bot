@@ -1,0 +1,4 @@
+irc reminders bot
+
+requirements:
+    parsedatetime
